@@ -22,7 +22,7 @@ After doing some research before building the ERCF I found a lot of people sayin
 |3|M5x10 BHCS|
 
 * (1) 171mm for 6, 234mm for 9 and 297mm for 12. These are minimum lengths, can be longer if you want.
-* (2) Only needed for mounting ERB to 2020 exrtusion
+* (2) Only needed for mounting Fysetc ERB V1.1 to 2020 exrtusion
 
 # Assembly
 

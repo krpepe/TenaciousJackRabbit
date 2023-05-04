@@ -19,3 +19,7 @@ After doing some research before building the ERCF I found a lot of people sayin
 
 * (1) 171mm for 6, 234mm for 9 and 297mm for 12. These are minimum lengths, can be longer if you want.
 * (2) Only needed for mounting ERB to 2020 exrtusion
+
+# Assembly
+
+To assemble you have to attach the 2020 extrusion to the Gearbox_Front_2020_Mount with the M6x10 before assembling the gearbox. The filament blocks and bearing blocks slide on to the 2020 extrusion instead of the 5mm rods in the assembly manual. The Filament_Blocks_End goes on after the last filament block and should be tight against the last filament block. 2 M5 BHCS and M5 T-nuts attach it to the 2020 extrusion. There should be no air gaps between the gearbox front and the Filament Blocks End. 

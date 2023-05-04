@@ -27,3 +27,5 @@ To assemble you have to attach the 2020 extrusion to the Gearbox_Front_2020_Moun
 #Assembly Pics
 
 ![20230504_092341](https://user-images.githubusercontent.com/26741528/236309907-77c10a5c-5008-4c84-8bb8-48bb11400102.jpg)
+![20230504_092354](https://user-images.githubusercontent.com/26741528/236310140-86627c02-5821-4ac4-9de4-6899cb6a7c1a.jpg)
+![20230504_092409](https://user-images.githubusercontent.com/26741528/236310162-bf9ac41d-7680-426b-a16d-4fb21cf4f737.jpg)

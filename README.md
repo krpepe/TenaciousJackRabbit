@@ -10,11 +10,12 @@ After doing some research before building the ERCF I found a lot of people sayin
 
 |Qty|Description|
 |:---:|---|
-|1|2020 Extrusion one end with M6 taped hole|
+|1|2020 Extrusion one end with M6 taped hole (1)|
 |1|M6x10 BHCS|
-|2|M3 T-nuts*|
-|7|M3x8 SHCS*|
+|2|M3 T-nuts (2)|
+|7|M3x8 SHCS (2)|
 |3|M5 T-nuts|
 |3|M5x10 BHCS|
 
-*Only needed for mounting ERB to 2020 exrtusion
+* (1) 171mm for 6, 234mm for 9 and 297mm for 12. These are minimum lengths, can be longer if you want.
+* (2) Only needed for mounting ERB to 2020 exrtusion

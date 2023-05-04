@@ -1,6 +1,6 @@
 # Tenacious Jack Rabbit
 
-This is still a work in progress! I have everything assembled but have not set it up yet. I have printed all of the parts I redesigned and they all fit snuggly. If you decide to try this please let me know if you encounter any issues. I will att empt to correct any issues that come up. I will be updating as necessary. I have included Gerbox front, filament block and filament blocks end with supports incase someones printer can't successfully print it without. I printed mine without supports and had very minamal cleanup to get them to fit.
+This is still a work in progress! I have everything assembled but have not set it up yet. I have printed all of the parts I redesigned and they all fit snuggly. If you decide to try this please let me know if you encounter any issues. I will attempt to correct any issues that come up. I will be updating as necessary. I have included Gearbox front, filament block and filament blocks end with supports incase someones printer can't successfully print it without. I printed mine without supports and had very minamal cleanup to get them to fit.
 
 This is based on the awesome work of EtteGit https://github.com/EtteGit/EnragedRabbitProject. I also found inspiration from the awesome work of sneakytreesnake (https://github.com/sneakytreesnake/SturdyBunnyProject).
 

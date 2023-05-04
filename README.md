@@ -1,6 +1,6 @@
 # Tenacious Jack Rabbit
 
-This is based on the awesome work of EtteGit https://github.com/EtteGit/EnragedRabbitProject. I found inspiration from sneakytreesnake https://github.com/sneakytreesnake/SturdyBunnyProject.
+This is based on the awesome work of EtteGit https://github.com/EtteGit/EnragedRabbitProject. I also found inspiration from the awesome work of sneakytreesnake (https://github.com/sneakytreesnake/SturdyBunnyProject).
 
 # Motivation
 
@@ -10,8 +10,11 @@ After doing some research before building the ERCF I found a lot of people sayin
 
 |Qty|Description|
 |:---:|---|
+|1|2020 Extrusion one end with M6 taped hole|
 |1|M6x10 BHCS|
 |2|M3 T-nuts*|
-|2|M3x8 SHCS*|
+|7|M3x8 SHCS*|
 |3|M5 T-nuts|
 |3|M5x10 BHCS|
+
+*Only needed for mounting ERB to 2020 exrtusion

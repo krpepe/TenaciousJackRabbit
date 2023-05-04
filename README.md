@@ -1,6 +1,8 @@
 # Tenacious Jack Rabbit
 
-This is still a work in progress! I have everything assembled but have not set it up yet. I have printed all of the parts I redesigned and they all fit snuggly. If you decide to try this please let me know if you encounter any issues. I will attempt to correct any issues that come up. I will be updating as necessary. I have included Gearbox front, filament block and filament blocks end with supports incase someones printer can't successfully print it without. I printed mine without supports and had very minamal cleanup to get them to fit.
+*__This is still a work in progress!__* <br>
+<br>
+I have everything assembled but have not set up the config yet. I am hoping to have that done by 5-11-23. I have printed all of the parts that I redesigned and they all fit snuggly. If you decide to try this please let me know if you encounter any issues. I will attempt to correct any issues that come up. I will be updating as necessary. I have included Gearbox front, filament block and filament blocks end with supports incase someones printer can't successfully print it without. I printed mine without supports and had very minamal cleanup to get them to fit.
 
 This is based on the awesome work of EtteGit https://github.com/EtteGit/EnragedRabbitProject. I also found inspiration from the awesome work of sneakytreesnake (https://github.com/sneakytreesnake/SturdyBunnyProject).
 
@@ -28,6 +30,6 @@ To assemble you have to attach the 2020 extrusion to the Gearbox_Front_2020_Moun
 
 # Assembly Pics
 
-![20230504_092341](https://user-images.githubusercontent.com/26741528/236309907-77c10a5c-5008-4c84-8bb8-48bb11400102.jpg)
 ![20230504_092354](https://user-images.githubusercontent.com/26741528/236310140-86627c02-5821-4ac4-9de4-6899cb6a7c1a.jpg)
 ![20230504_092409](https://user-images.githubusercontent.com/26741528/236310162-bf9ac41d-7680-426b-a16d-4fb21cf4f737.jpg)
+![20230504_092341](https://user-images.githubusercontent.com/26741528/236309907-77c10a5c-5008-4c84-8bb8-48bb11400102.jpg)
